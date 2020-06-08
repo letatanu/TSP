@@ -18,14 +18,14 @@ NI          |  2-OPT
 :-------------------------:|:-------------------------:
 ![](NI.png)  |  ![](2-opt.png)
 
-#Runtime comparison
+# Runtime comparison
 * Brute Force vs 3 other algorithms: NN, NI, and 2-OPT
 ![](runtime_wBF.png)
 
 * NN, NI, and 2-OPT
 ![](runtime_woBF.png)
 
-#Solution Comparison
+# Solution Comparison
 * Brute Force vs 3 other algorithms: NN, NI, and 2-OPT
 ![](solution_wBF.png)
 
