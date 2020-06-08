@@ -1,14 +1,15 @@
 # TSP
-This project is to compare between 4 algorithms: Brute Force, Nearest Neighbor (NN), Nearest Insertion (NI) and 2-OPT for the Travelling Saleman Problem (TSP).
+This project is to compare between 4 algorithms: Brute Force, Nearest Neighbor (NN), Nearest Insertion (NI) and 2-OPT for solving the Travelling Saleman Problem (TSP).
 
 The TSP can be stated as 
 >Given a set of cities, what is the shortestroute that visits each city only once and return to the starting city?
 
 The Brute Force can give the optimal solution but its time complexity is O(n!) which is too high to afford in a regular machine. 
 
-![Comp between 4 algs](runtime_wBF.png)
+![](runtime_wBF.png)
 
-#Result Example
+
+# Result Example
 Brute Force           |  NN
 :-------------------------:|:-------------------------:
 ![](Brute_Force.png)  |  ![](NN.png)
