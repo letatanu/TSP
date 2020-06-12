@@ -1,4 +1,4 @@
-# TSP
+# Travelling Saleman Problem (TSP)
 This project is to compare between 4 algorithms: Brute Force, Nearest Neighbor (NN), Nearest Insertion (NI) and 2-OPT for solving the Travelling Saleman Problem (TSP).
 
 The TSP can be stated as 
